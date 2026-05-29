@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/beer/recipes/Saison - Dan H.md",
+                "file": "wiki/wine/How-To-Wine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saison - Dan H"
+              "title": "How-To-Wine"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/beer/recipes/Saison - Dan H.md",
+                "file": "wiki/wine/How-To-Wine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Saison - Dan H"
+              "title": "Backlinks for How-To-Wine"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/beer/recipes/Saison - Dan H.md",
+                "file": "wiki/wine/How-To-Wine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Saison - Dan H"
+              "title": "Outgoing links from How-To-Wine"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/beer/recipes/Saison - Dan H.md",
+                "file": "wiki/wine/How-To-Wine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Saison - Dan H"
+              "title": "Outline of How-To-Wine"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "de243b794c1488bb",
   "lastOpenFiles": [
+    "wiki/beer/recipes/Saison-Dan H.md",
+    "wiki/wine/How-To-Wine.md",
+    "wiki/housekeeping/Readme.md",
     "wiki/beer/bjcp-styles/1-style-standard-american-beer/American-Lager.md",
-    "wiki/beer/recipes/Saison - Dan H.md",
     "wiki/beer/recipes",
     "wiki/beer/Untitled.md",
     "wiki/beer/bjcp-styles/1-style-standard-american-beer/American-Light-Lager.md",
