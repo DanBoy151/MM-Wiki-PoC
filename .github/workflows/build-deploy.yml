@@ -1,0 +1,40 @@
+name: Build and deploy docs site
+
+on:
+  push:
+    branches:
+      - documentation
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate docs/ from wiki/
+        working-directory: mkdocs
+        run: node build-docs.js
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install MkDocs
+        run: pip install mkdocs-material mkdocs-awesome-pages-plugin
+
+      - name: Configure git for gh-deploy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Build and deploy to gh-pages
+        working-directory: mkdocs
+        run: mkdocs gh-deploy --force -f mkdocs.yml
