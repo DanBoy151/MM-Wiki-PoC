@@ -1,6 +1,6 @@
 # Glossary
 
-Plain-language definitions of terms used across this wiki. Link to a term with `[[Glossary#Term]]` instead of re-explaining it inline.
+Plain-language definitions of terms used across this wiki. Link to a term with an Obsidian link to this page and the term's heading instead of re-explaining it inline.
 
 ## OG (Original Gravity)
 The density of the wort before fermentation, relative to water, e.g. `1.050`. Higher OG generally means more fermentable sugar and more potential alcohol.
