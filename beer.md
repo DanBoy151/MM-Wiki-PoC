@@ -14,7 +14,9 @@ Lets Brew Beer!
 
 <!-- This is the main page for creating of child brewing pages -->
  - [Brewing-101](/beer/Brewing-101)
- 
+ - [Beginners](/beer/beginners)
+ - [Ingredients](/beer/ingredients)
+ - [Techniques](/beer/techniques)
+ - [Styles](/beer/styles)
  
  {.links-list}
- 
