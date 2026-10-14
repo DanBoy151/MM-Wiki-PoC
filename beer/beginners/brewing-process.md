@@ -2,14 +2,14 @@
 title: Brewing Process
 description: An overview of each stage of brewing beer
 published: true
-date: 2026-10-14T00:00:00.000Z
+date: 2026-10-14T04:24:27.848Z
 tags: beer, beginner, process
 editor: markdown
-dateCreated: 2026-10-14T00:00:00.000Z
+dateCreated: 2026-10-14T03:54:23.599Z
 ---
 
 # Brewing Process
-This page gives the big picture. For exact quantities and steps, see [Brewing 101](/beer/Brewing-101).
+This page gives the big picture. For exact quantities and steps, see [Brewing 101](/beer/beginners/Brewing-101).
 
 ## Stages
 
