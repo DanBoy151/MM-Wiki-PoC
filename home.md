@@ -1,12 +1,12 @@
 ---
-title: Home Page
-description: Merri Mashers Homebrewing Wiki
+title: MM Wiki
+description: Home Page
 published: true
-date: 2026-10-13T05:22:16.210Z
+date: 2026-10-14T03:48:35.376Z
 tags: 
 editor: markdown
-dateCreated: 2026-10-13T05:22:16.210Z
+dateCreated: 2026-10-14T03:48:35.376Z
 ---
 
-# Merri Mashers Wiki Home
-Welcome to the Mashers Homebrewing Wiki
+# MM Wiki Home
+Welcome to the MM Wiki!
