@@ -2,10 +2,10 @@
 title: Quick Start Guide
 description: The shortest path to your first drinkable beer
 published: true
-date: 2026-10-14T00:00:00.000Z
+date: 2026-10-14T04:23:37.121Z
 tags: beer, beginner
 editor: markdown
-dateCreated: 2026-10-14T00:00:00.000Z
+dateCreated: 2026-10-14T03:55:41.608Z
 ---
 
 # Quick Start Guide
@@ -34,4 +34,4 @@ The fastest route to your first beer is a **beer kit** (a can of hopped malt ext
 ## Next Steps
 - Read the [Brewing Process](/beer/beginners/brewing-process).
 - Avoid the common [Gotchas](/beer/beginners/gotchas).
-- Follow the full guide in [Brewing 101](/beer/Brewing-101).
+- Follow the full guide in [Brewing 101](/beer/beginners/Brewing-101).
