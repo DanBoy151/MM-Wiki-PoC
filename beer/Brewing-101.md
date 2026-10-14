@@ -2,10 +2,10 @@
 title: Brewing-101
 description: Beginners Guide to Brewing
 published: true
-date: 2026-10-13T05:56:41.484Z
+date: 2026-10-14T04:05:59.971Z
 tags: beer, brewing, beginner
 editor: markdown
-dateCreated: 2026-10-13T05:48:38.670Z
+dateCreated: 2026-10-14T03:52:11.197Z
 ---
 
 # Brewing 101
